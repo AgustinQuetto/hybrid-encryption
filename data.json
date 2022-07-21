@@ -1,0 +1,28 @@
+{
+  "firstname": "firstname",
+  "lastname": "lastname",
+  "email": "email@email.com",
+  "id_number_country": "AR",
+  "id_number": "123345678",
+  "gender": "X",
+  "mobile_phone": "+541111111111",
+  "source": null,
+  "infoDevice": {
+    "ua": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+    "browser": {
+      "name": "Chrome",
+      "version": "103.0.0.0",
+      "major": "103"
+    },
+    "engine": {
+      "version": "537.36",
+      "name": "WebKit"
+    },
+    "os": {
+      "name": "Mac OS",
+      "version": "10.15.7"
+    },
+    "device": {},
+    "cpu": {}
+  }
+}
